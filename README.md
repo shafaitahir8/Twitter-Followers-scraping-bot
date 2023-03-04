@@ -6,6 +6,19 @@ The scraper was designed to extract the data by navigating to the Twitter websit
 To ensure efficiency and accuracy, the scraper was designed with error handling mechanisms to handle potential issues such as rate limits and network errors. Additionally, the scraper was programmed to respect the Twitter terms of service and adhere to ethical scraping practices to avoid any potential legal issues.
 Once the usernames were extracted, they could be analyzed or managed in a list for various purposes such as targeted marketing campaigns or social media analysis. Overall, this project demonstrates the ability to utilize programming and scraping techniques to extract valuable data from social media platforms.
 
+# Requirements 
+## Libraries
+1.	Selenium
+2.	Os
+3.	Numpy
+4.	Pandas
+5.	Time
+6.	Re
+
+## Tools
+IDE that supports jupyter notebooks
+Chrome driver
+
 # Potential Problems
 ###### API limitations: 
 The Twitter API may have limitations on the amount of data that can be extracted within a given time period, which could slow down the scraping process or prevent data collection altogether.
