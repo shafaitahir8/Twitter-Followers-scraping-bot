@@ -16,8 +16,9 @@ Once the usernames were extracted, they could be analyzed or managed in a list f
 6.	Re
 
 ## Tools
-IDE that supports jupyter notebooks
-Chrome driver
+1- IDE that supports jupyter notebooks
+
+2-Chrome driver
 
 # Potential Problems
 ###### API limitations: 
